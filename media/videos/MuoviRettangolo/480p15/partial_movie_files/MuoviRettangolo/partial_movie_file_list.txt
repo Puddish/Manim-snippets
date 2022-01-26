@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/haislich/Documents/Programming/Manim-snippets/media/videos/MuoviRettangolo/480p15/partial_movie_files/MuoviRettangolo/3163782288_2586079962_1392832717.mp4'
